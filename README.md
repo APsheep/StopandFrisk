@@ -1,9 +1,13 @@
 # stopandfrisk
 ---
 Created in October - December 2024
-Originally developed with @SamhithaS14 (Samhitha Sangaraju) and @vidushij17 Vidushi Jindal. Forked and extended by me
+
+Originally developed with @SamhithaS14 (Samhitha Sangaraju) and @vidushij17 (Vidushi Jindal). Forked and extended by me
+
 My Contributions:
+
 Cleaning a portion of the Dataset, Engineering some Features, KNN Model, KNN visualizations, General Graphs, my portion of a Demo Video(not linked). 
+
 ---
 Frisk and Arrested Analysis
 This project addresses the complex issue of understanding the factors influencing police stop-and-frisk incidents in New York City. Using a dataset from NYPD.gov containing detailed records of frisk and arrested occurrences, our primary goal is to predict how factors, like demographic attributes, borough, time of day, or officer-reported justifications, affect possible suspects of being frisked and arrested..
