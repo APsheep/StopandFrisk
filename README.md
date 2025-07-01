@@ -1,4 +1,10 @@
 # stopandfrisk
+---
+Created in October - December 2024
+Originally developed with @SamhithaS14 (Samhitha Sangaraju) and @vidushij17 Vidushi Jindal. Forked and extended by me
+My Contributions:
+Cleaning a portion of the Dataset, Engineering some Features, KNN Model, KNN visualizations, General Graphs, my portion of a Demo Video(not linked). 
+---
 Frisk and Arrested Analysis
 This project addresses the complex issue of understanding the factors influencing police stop-and-frisk incidents in New York City. Using a dataset from NYPD.gov containing detailed records of frisk and arrested occurrences, our primary goal is to predict how factors, like demographic attributes, borough, time of day, or officer-reported justifications, affect possible suspects of being frisked and arrested..
 
@@ -16,5 +22,4 @@ Open and execute the sqf-2023-cleaned-with-features-FINAL_CODE.ipynb Jupyter Not
 Check the General Graphs notebook to see graphs which relate to our data exploration and understanding.
 Next, go through each model(KNN, Logistic Regression, Random Forest) notebooks to build and run the models and their visualizations
 
-Video Demo(google drive link: https://drive.google.com/file/d/1Gs6D5wpxSsqz1taHQhNcBj5fHB_s7eRj/view?usp=sharing)
 Feel free to reach out if you have any questions or encounter any issues with the setup or execution.
